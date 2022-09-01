@@ -1,3 +1,13 @@
+# Steps to start project locally and Softwares Required
+Install node js from [Node JS](https://nodejs.org/en/)
+Install angular using `npm install -g @angular/cli@8.3.19`
+
+Navigate to project root directory (`cd C:\Kasi\Trainings\Projects\JFS_PROJECTS\angular-bookstore\package.json`)
+
+Run `npm install` to download all dependencies
+
+Run `ng serve` to start project
+
 # AngularBookstore
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.19.
